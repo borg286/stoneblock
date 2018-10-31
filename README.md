@@ -1,11 +1,3 @@
----
-title: Stoneblock Tips and Tricks
-layout: post
-author: borg286
-permalink: /stoneblock/
-source-id: 1oejLRC7Xrk00-SPad59qJpikVbFcdQs0s4Puof2h0Ac
-published: true
----
 Stoneblock Tips and Tricks
 
 ### Version History
