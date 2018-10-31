@@ -1,4 +1,4 @@
-Stoneblock Tips and Tricks
+Stoneblock Tips and Tricks 
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
 
