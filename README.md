@@ -1,4 +1,4 @@
-`Stoneblock Tips and Tricks 
+`Stoneblock Tips and Tricks
 
 Stoneblock is currently 1.0.26 : [Get it here !](https://minecraft.curseforge.com/projects/stoneblock/files/2633763)
 
